@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poe2BuildGeneratorBE", "Poe2BuildGeneratorBE.csproj", "{AB8E646B-50AF-488B-BAC4-1028987B68CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB8E646B-50AF-488B-BAC4-1028987B68CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB8E646B-50AF-488B-BAC4-1028987B68CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB8E646B-50AF-488B-BAC4-1028987B68CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB8E646B-50AF-488B-BAC4-1028987B68CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA064791-F337-4FC1-8CA7-0F8AC887AD95}
+	EndGlobalSection
+EndGlobal
