@@ -1,0 +1,454 @@
+{
+  "elemental": {
+    "enabled": true,
+    "defense": [
+      "Energy Shield",
+      "Evasion and Energy Shield",
+      "Armour and Energy Shield",
+      "Block and Energy Shield",
+      "Block, Armour, and Energy Shield"
+    ],
+    "class": [
+      {
+        "main": "Sorcerer",
+        "ascendency": "Stormweaver",
+        "skills": []
+      },
+      {
+        "main": "Sorcerer",
+        "ascendency": "Chronomancer",
+        "skills": []
+      },
+      {
+        "main": "Witch",
+        "ascendency": "Infernalist",
+        "skills": []
+      },
+      {
+        "main": "Witch",
+        "ascendency": "Bloodmage",
+        "skills": []
+      },
+      {
+        "main": "Witch",
+        "ascendency": "Lich",
+        "skills": []
+      },
+      {
+        "main": "Templar",
+        "ascendency": "Templar",
+        "skills": []
+      },
+      {
+        "main": "Druid",
+        "ascendency": "Druid",
+        "skills": []
+      },
+      {
+        "main": "Monk",
+        "ascendency": "Invoker",
+        "skills": []
+      },
+      {
+        "main": "Monk",
+        "ascendency": "Acolyte",
+        "skills": []
+      },
+      {
+        "main": "Shadow",
+        "ascendency": "Shadow",
+        "skills": []
+      }
+    ],
+    "skills": [
+      "Ember Fusillade",
+      "Incinerate",
+      "Solar Orb",
+      "Fireball",
+      "Firestorm",
+      "Flameblast",
+      "Flamebolt",
+      "Living Bomb",
+      "Ice Nova",
+      "Frost Bomb",
+      "Frostbolt",
+      "Cold Snap",
+      "Comet",
+      "Eye of Winter",
+      "Ice Shards",
+      "Spark",
+      "Orb of Storms",
+      "Arc",
+      "Lightning Conduit",
+      "Lightning Bolt"
+    ]
+  },
+  "occult": {
+    "enabled": true,
+    "defense": [
+      "Energy Shield",
+      "Evasion and Energy Shield",
+      "Armour and Energy Shield",
+      "Block and Energy Shield",
+      "Block, Armour, and Energy Shield"
+    ],
+    "class": [
+      {
+        "main": "Sorcerer",
+        "ascendency": "Stormweaver",
+        "skills": []
+      },
+      {
+        "main": "Sorcerer",
+        "ascendency": "Chronomancer",
+        "skills": []
+      },
+      {
+        "main": "Witch",
+        "ascendency": "Infernalist",
+        "skills": []
+      },
+      {
+        "main": "Witch",
+        "ascendency": "Bloodmage",
+        "skills": []
+      },
+      {
+        "main": "Witch",
+        "ascendency": "Lich",
+        "skills": []
+      },
+      {
+        "main": "Templar",
+        "ascendency": "Templar",
+        "skills": []
+      },
+      {
+        "main": "Druid",
+        "ascendency": "Druid",
+        "skills": []
+      },
+      {
+        "main": "Monk",
+        "ascendency": "Invoker",
+        "skills": []
+      },
+      {
+        "main": "Monk",
+        "ascendency": "Acolyte",
+        "skills": []
+      },
+      {
+        "main": "Shadow",
+        "ascendency": "Shadow",
+        "skills": []
+      }
+    ],
+    "skills": [
+      "Skeletal Sniper",
+      "Raise Zombie",
+      "Skeletal Reaver",
+      "Skeletal Brute",
+      "Bind Spectre",
+      "Skeletal Arsonist",
+      "Skeletal Frost Mage",
+      "Skeletal Storm Mage",
+      "Unearth",
+      "BoneCage",
+      "Bonestorm",
+      "Bone Blast",
+      "Essence Drain",
+      "Profane Ritual",
+      "Dark Effigy",
+      "Hexblast",
+      "Offensive Hexes",
+      "Chaos Bolt",
+      "Detonate Dead",
+      "Volitile Dead"
+    ]
+  },
+  "primal": {
+    "enabled": false,
+    "defense": [
+      "Armour and Energy Shield",
+      "Energy Shield",
+      "Armour",
+      "Block, Armour, and Energy Shield",
+      "Block and Armour",
+      "Block and Energy Shield"
+    ],
+    "class": [
+      {
+        "main": "Sorcerer",
+        "ascendency": "Stormweaver",
+        "skills": []
+      },
+      {
+        "main": "Sorcerer",
+        "ascendency": "Chronomancer",
+        "skills": []
+      },
+      {
+        "main": "Witch",
+        "ascendency": "Infernalist",
+        "skills": []
+      },
+      {
+        "main": "Witch",
+        "ascendency": "Bloodmage",
+        "skills": []
+      },
+      {
+        "main": "Witch",
+        "ascendency": "Lich",
+        "skills": []
+      },
+      {
+        "main": "Templar",
+        "ascendency": "Templar",
+        "skills": []
+      },
+      {
+        "main": "Druid",
+        "ascendency": "Druid",
+        "skills": []
+      },
+      {
+        "main": "Marauder",
+        "ascendency": "Marauder",
+        "skills": []
+      },
+      {
+        "main": "Warrior",
+        "ascendency": "Titan",
+        "skills": []
+      },
+      {
+        "main": "Warrior",
+        "ascendency": "Warbringer",
+        "skills": [ "Seismic Cry", "Infernal Cry" ]
+      },
+      {
+        "main": "Warrior",
+        "ascendency": "Smith of Kitava",
+        "skills": [ "Manifest Weapon" ]
+      }
+    ],
+    "skills": []
+  },
+  "flail": {
+    "enabled": false,
+    "defense": [
+      "Armour and Energy Shield",
+      "Energy Shield",
+      "Armour",
+      "Block, Armour, and Energy Shield",
+      "Block and Armour",
+      "Block and Energy Shield"
+    ],
+    "class": [
+      {
+        "main": "Sorcerer",
+        "ascendency": "Stormweaver",
+        "skills": []
+      },
+      {
+        "main": "Sorcerer",
+        "ascendency": "Chronomancer",
+        "skills": []
+      },
+      {
+        "main": "Witch",
+        "ascendency": "Infernalist",
+        "skills": []
+      },
+      {
+        "main": "Witch",
+        "ascendency": "Bloodmage",
+        "skills": []
+      },
+      {
+        "main": "Witch",
+        "ascendency": "Lich",
+        "skills": []
+      },
+      {
+        "main": "Templar",
+        "ascendency": "Templar",
+        "skills": []
+      },
+      {
+        "main": "Druid",
+        "ascendency": "Druid",
+        "skills": []
+      },
+      {
+        "main": "Marauder",
+        "ascendency": "Marauder",
+        "skills": []
+      },
+      {
+        "main": "Warrior",
+        "ascendency": "Titan",
+        "skills": []
+      },
+      {
+        "main": "Warrior",
+        "ascendency": "Warbringer",
+        "skills": [ "Seismic Cry", "Infernal Cry" ]
+      },
+      {
+        "main": "Warrior",
+        "ascendency": "Smith of Kitava",
+        "skills": [ "Manifest Weapon" ]
+      }
+    ],
+    "skills": []
+  },
+  "mace": {
+    "enabled": true,
+    "defense": [
+      "Armour",
+      "Armour and Energy Shield",
+      "Armour and Evasion",
+      "Block and Armour",
+      "Block, Armour, and Energy Shield",
+      "Block, Armour, and Evasion"
+    ],
+    "class": [
+      {
+        "main": "Templar",
+        "ascendency": "Templar",
+        "skills": []
+      },
+      {
+        "main": "Druid",
+        "ascendency": "Druid",
+        "skills": []
+      },
+      {
+        "main": "Marauder",
+        "ascendency": "Marauder",
+        "skills": []
+      },
+      {
+        "main": "Warrior",
+        "ascendency": "Titan",
+        "skills": []
+      },
+      {
+        "main": "Warrior",
+        "ascendency": "Warbringer",
+        "skills": [ "Seismic Cry", "Infernal Cry" ]
+      },
+      {
+        "main": "Warrior",
+        "ascendency": "Smith of Kitava",
+        "skills": [ "Manifest Weapon" ]
+      },
+      {
+        "main": "Duelist",
+        "ascendency": "Duelist",
+        "skills": []
+      },
+      {
+        "main": "Mercenary",
+        "ascendency": "Witchhunter",
+        "skills": []
+      },
+      {
+        "main": "Mercenary",
+        "ascendency": "Gemling Legionnaire",
+        "skills": []
+      },
+      {
+        "main": "Mercenary",
+        "ascendency": "Tactician",
+        "skills": []
+      }
+    ],
+    "skills": [
+      "Earthquake",
+      "Boneshatter",
+      "Rolling Slam",
+      "Earthshatter",
+      "Sunder",
+      "Supercharged Slam",
+      "Stampede",
+      "Hammer of the Gods",
+      "Shockwave Totem",
+      "Ancestral Warrior Totem",
+      "Shield Charge",
+      "Resonating Shield",
+      "Shield Wall",
+      "Perfect Strike",
+      "Molten Blast",
+      "Volcanic Fissure"
+    ]
+  },
+  "axe": {
+    "enabled": false,
+    "defense": [
+      "Armour",
+      "Armour and Energy Shield",
+      "Armour and Evasion",
+      "Block and Armour",
+      "Block, Armour, and Energy Shield",
+      "Block, Armour, and Evasion"
+    ],
+    "class": [
+      {
+        "main": "Templar",
+        "ascendency": "Templar",
+        "skills": []
+      },
+      {
+        "main": "Druid",
+        "ascendency": "Druid",
+        "skills": []
+      },
+      {
+        "main": "Marauder",
+        "ascendency": "Marauder",
+        "skills": []
+      },
+      {
+        "main": "Warrior",
+        "ascendency": "Titan",
+        "skills": []
+      },
+      {
+        "main": "Warrior",
+        "ascendency": "Warbringer",
+        "skills": [ "Seismic Cry", "Infernal Cry" ]
+      },
+      {
+        "main": "Warrior",
+        "ascendency": "Smith of Kitava",
+        "skills": [ "Manifest Weapon" ]
+      },
+      {
+        "main": "Duelist",
+        "ascendency": "Duelist",
+        "skills": []
+      },
+      {
+        "main": "Mercenary",
+        "ascendency": "Witchhunter",
+        "skills": []
+      },
+      {
+        "main": "Mercenary",
+        "ascendency": "Gemling Legionnaire",
+        "skills": []
+      },
+      {
+        "main": "Mercenary",
+        "ascendency": "Tactician",
+        "skills": []
+      }
+    ],
+    "skills": [
+    ]
+  }
+}
