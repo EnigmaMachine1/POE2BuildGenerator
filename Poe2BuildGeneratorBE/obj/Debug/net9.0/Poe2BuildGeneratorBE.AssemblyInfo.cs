@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Poe2BuildGeneratorBE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f50f5f558095c6f89ebd4b3ad43b8e360de6d78b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7022cdc2169d01e45934ce4371fc96d8871c429")]
 [assembly: System.Reflection.AssemblyProductAttribute("Poe2BuildGeneratorBE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Poe2BuildGeneratorBE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

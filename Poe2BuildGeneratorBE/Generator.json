@@ -6,7 +6,8 @@
       "Evasion and Energy Shield",
       "Armour and Energy Shield",
       "Block and Energy Shield",
-      "Block, Armour, and Energy Shield"
+      "Block, Armour, and Energy Shield",
+      "Block, Evasion, and Energy Shield"
     ],
     "class": [
       {
@@ -51,7 +52,7 @@
       },
       {
         "main": "Monk",
-        "ascendency": "Acolyte",
+        "ascendency": "Acolyte of Chayula",
         "skills": []
       },
       {
@@ -90,7 +91,8 @@
       "Evasion and Energy Shield",
       "Armour and Energy Shield",
       "Block and Energy Shield",
-      "Block, Armour, and Energy Shield"
+      "Block, Armour, and Energy Shield",
+      "Block, Evasion, and Energy Shield"
     ],
     "class": [
       {
@@ -135,7 +137,7 @@
       },
       {
         "main": "Monk",
-        "ascendency": "Acolyte",
+        "ascendency": "Acolyte of Chayula",
         "skills": []
       },
       {
@@ -450,5 +452,494 @@
     ],
     "skills": [
     ]
+  },
+  "crossbow": {
+    "enabled": true,
+    "defense": [
+      "Armour and Evasion",
+      "Armour",
+      "Evasion"
+    ],
+    "class": [
+      {
+        "main": "Marauder",
+        "ascendency": "Marauder",
+        "skills": []
+      },
+      {
+        "main": "Warrior",
+        "ascendency": "Titan",
+        "skills": []
+      },
+      {
+        "main": "Warrior",
+        "ascendency": "Warbringer",
+        "skills": [ "Seismic Cry", "Infernal Cry" ]
+      },
+      {
+        "main": "Warrior",
+        "ascendency": "Smith of Kitava",
+        "skills": [ "Manifest Weapon" ]
+      },
+      {
+        "main": "Duelist",
+        "ascendency": "Duelist",
+        "skills": []
+      },
+      {
+        "main": "Mercenary",
+        "ascendency": "Witchhunter",
+        "skills": []
+      },
+      {
+        "main": "Mercenary",
+        "ascendency": "Gemling Legionnaire",
+        "skills": []
+      },
+      {
+        "main": "Mercenary",
+        "ascendency": "Tactician",
+        "skills": []
+      },
+      {
+        "main": "Ranger",
+        "ascendency": "Deadeye",
+        "skills": []
+      },
+      {
+        "main": "Ranger",
+        "ascendency": "Pathfinder",
+        "skills": [ "Explosive Concoction", "Bleeding Concoction", "Fulminating Concoction", "Shattering Concoction", "Poison Concoction" ]
+      },
+      {
+        "main": "Huntress",
+        "ascendency": "Amazon",
+        "skills": []
+      },
+      {
+        "main": "Huntress",
+        "ascendency": "Ritualist",
+        "skills": []
+      }
+    ],
+    "skills": [
+      "Fragmentation Rounds",
+      "Armour Piercing Rounds",
+      "High Velocity Rounds",
+      "Permafrost Bolts",
+      "Ice Shards",
+      "Glacial Bolt",
+      "Hailstorm Rounds",
+      "Incendiary Shot",
+      "Rapid Shot",
+      "Explosive Shot",
+      "Seige Cascade",
+      "Galvanic Shards",
+      "Stormblast Bolts",
+      "Shockburst Rounds",
+      "Plasma Blast",
+      "Explosive Grenade",
+      "Gas Grenade",
+      "Cluster Grenade",
+      "Voltaic Grenade",
+      "Ripwire Ballista",
+      "Artillery Ballista"
+    ]
+  },
+  "sword": {
+    "enabled": false,
+    "defense": [
+      "Armour and Evasion",
+      "Armour",
+      "Evasion",
+      "Block, Armour, and Evasion",
+      "Block and Armour",
+      "Block and Evasion"
+    ],
+    "class": [
+      {
+        "main": "Templar",
+        "ascendency": "Templar",
+        "skills": []
+      },
+      {
+        "main": "Druid",
+        "ascendency": "Druid",
+        "skills": []
+      },
+      {
+        "main": "Marauder",
+        "ascendency": "Marauder",
+        "skills": []
+      },
+      {
+        "main": "Warrior",
+        "ascendency": "Titan",
+        "skills": []
+      },
+      {
+        "main": "Warrior",
+        "ascendency": "Warbringer",
+        "skills": [ "Seismic Cry", "Infernal Cry" ]
+      },
+      {
+        "main": "Warrior",
+        "ascendency": "Smith of Kitava",
+        "skills": [ "Manifest Weapon" ]
+      },
+      {
+        "main": "Duelist",
+        "ascendency": "Duelist",
+        "skills": []
+      },
+      {
+        "main": "Mercenary",
+        "ascendency": "Witchhunter",
+        "skills": []
+      },
+      {
+        "main": "Mercenary",
+        "ascendency": "Gemling Legionnaire",
+        "skills": []
+      },
+      {
+        "main": "Mercenary",
+        "ascendency": "Tactician",
+        "skills": []
+      }
+    ],
+    "skills": []
+  },
+  "bow": {
+    "enabled": true,
+    "defense": [
+      "Evasion",
+      "Armour and Evasion",
+      "Evasion and Energy Shield"
+    ],
+    "class": [
+      {
+        "main": "Duelist",
+        "ascendency": "Duelist",
+        "skills": []
+      },
+      {
+        "main": "Mercenary",
+        "ascendency": "Witchhunter",
+        "skills": []
+      },
+      {
+        "main": "Mercenary",
+        "ascendency": "Gemling Legionnaire",
+        "skills": []
+      },
+      {
+        "main": "Mercenary",
+        "ascendency": "Tactician",
+        "skills": []
+      },
+      {
+        "main": "Ranger",
+        "ascendency": "Deadeye",
+        "skills": []
+      },
+      {
+        "main": "Ranger",
+        "ascendency": "Pathfinder",
+        "skills": [ "Explosive Concoction", "Bleeding Concoction", "Fulminating Concoction", "Shattering Concoction", "Poison Concoction" ]
+      },
+      {
+        "main": "Huntress",
+        "ascendency": "Amazon",
+        "skills": []
+      },
+      {
+        "main": "Huntress",
+        "ascendency": "Ritualist",
+        "skills": []
+      },
+      {
+        "main": "Monk",
+        "ascendency": "Invoker",
+        "skills": []
+      },
+      {
+        "main": "Monk",
+        "ascendency": "Acolyte of Chayula",
+        "skills": []
+      },
+      {
+        "main": "Shadow",
+        "ascendency": "Shadow",
+        "skills": []
+      }
+    ],
+    "skills": [
+      "Poisonburst Arrow",
+      "Toxic Growth",
+      "Gas Arrow",
+      "Escape Shot",
+      "Freezing Salvo",
+      "Ice Shot",
+      "Lightning Arrow",
+      "Lightning Rod",
+      "Stormcaller Arrow",
+      "Shockchain Arrow",
+      "Magnetic Salvo",
+      "Snipe",
+      "Rain of Arrows",
+      "Tornado Shot",
+      "Spiral Volley",
+      "Detonating Arrow"
+    ]
+  },
+  "spear": {
+    "enabled": true,
+    "defense": [
+      "Evasion",
+      "Armour and Evasion",
+      "Evasion and Energy Shield",
+      "Block and Evasion",
+      "Block, Evasion, and Energy Shield"
+      "Block, Armour, and Evasion"
+
+    ],
+    "class": [
+      {
+        "main": "Duelist",
+        "ascendency": "Duelist",
+        "skills": []
+      },
+      {
+        "main": "Mercenary",
+        "ascendency": "Witchhunter",
+        "skills": []
+      },
+      {
+        "main": "Mercenary",
+        "ascendency": "Gemling Legionnaire",
+        "skills": []
+      },
+      {
+        "main": "Mercenary",
+        "ascendency": "Tactician",
+        "skills": []
+      },
+      {
+        "main": "Ranger",
+        "ascendency": "Deadeye",
+        "skills": []
+      },
+      {
+        "main": "Ranger",
+        "ascendency": "Pathfinder",
+        "skills": [ "Explosive Concoction", "Bleeding Concoction", "Fulminating Concoction", "Shattering Concoction", "Poison Concoction" ]
+      },
+      {
+        "main": "Huntress",
+        "ascendency": "Amazon",
+        "skills": []
+      },
+      {
+        "main": "Huntress",
+        "ascendency": "Ritualist",
+        "skills": []
+      },
+      {
+        "main": "Monk",
+        "ascendency": "Invoker",
+        "skills": []
+      },
+      {
+        "main": "Monk",
+        "ascendency": "Acolyte of Chayula",
+        "skills": []
+      },
+      {
+        "main": "Shadow",
+        "ascendency": "Shadow",
+        "skills": []
+      }
+    ],
+    "skills": [
+      "Spearfield",
+      "Whirling Slash",
+      "Twister",
+      "Whirlwind Lance",
+      "Wind Serpent's Fury",
+      "Explosive Spear",
+      "Spear of Solaris",
+      "Lightning Spear",
+      "Storm Lance",
+      "Primal Strikes",
+      "Thunderous Leap",
+      "Fangs of Frost",
+      "Glacial Lance",
+      "Rake",
+      "Rapid Assault",
+      "Blood Hunt",
+      "Tame Beast",
+      "Elemental Sundering"
+    ]
+  },
+  "quarterstaff": {
+    "enabled": true,
+    "defense": [
+      "Evasion and Energy Shield",
+      "Energy Shield",
+      "Evasion"
+    ],
+    "class": [
+      {
+        "main": "Ranger",
+        "ascendency": "Deadeye",
+        "skills": []
+      },
+      {
+        "main": "Ranger",
+        "ascendency": "Pathfinder",
+        "skills": [ "Explosive Concoction", "Bleeding Concoction", "Fulminating Concoction", "Shattering Concoction", "Poison Concoction" ]
+      },
+      {
+        "main": "Huntress",
+        "ascendency": "Amazon",
+        "skills": []
+      },
+      {
+        "main": "Huntress",
+        "ascendency": "Ritualist",
+        "skills": []
+      },
+      {
+        "main": "Monk",
+        "ascendency": "Invoker",
+        "skills": []
+      },
+      {
+        "main": "Monk",
+        "ascendency": "Acolyte of Chayula",
+        "skills": []
+      },
+      {
+        "main": "Shadow",
+        "ascendency": "Shadow",
+        "skills": []
+      },
+      {
+        "main": "Sorcerer",
+        "ascendency": "Stormweaver",
+        "skills": []
+      },
+      {
+        "main": "Sorcerer",
+        "ascendency": "Chronomancer",
+        "skills": []
+      },
+      {
+        "main": "Witch",
+        "ascendency": "Infernalist",
+        "skills": []
+      },
+      {
+        "main": "Witch",
+        "ascendency": "Bloodmage",
+        "skills": []
+      },
+      {
+        "main": "Witch",
+        "ascendency": "Lich",
+        "skills": []
+      }
+    ],
+    "skills": [
+      "Falling Thunder",
+      "Tempest Flurry",
+      "Storm Wave",
+      "Charged Staff",
+      "Gathering Storm",
+      "Glacial Cascade",
+      "Frozen Locus",
+      "Ice Strike",
+      "Wave of Frost",
+      "Shattering Palm",
+      "Wind Blast",
+      "Whirling Assault",
+      "Flicker Strike",
+      "Staggering Palm"
+    ]
+  },
+  "dagger": {
+    "enabled": false,
+    "defense": [
+      "Evasion and Energy Shield",
+      "Energy Shield",
+      "Evasion",
+      "Block, Evasion, and Energy Shield",
+      "Block and Evasion",
+      "Block and Energy Shield"
+    ],
+    "class": [
+      {
+        "main": "Ranger",
+        "ascendency": "Deadeye",
+        "skills": []
+      },
+      {
+        "main": "Ranger",
+        "ascendency": "Pathfinder",
+        "skills": [ "Explosive Concoction", "Bleeding Concoction", "Fulminating Concoction", "Shattering Concoction", "Poison Concoction" ]
+      },
+      {
+        "main": "Huntress",
+        "ascendency": "Amazon",
+        "skills": []
+      },
+      {
+        "main": "Huntress",
+        "ascendency": "Ritualist",
+        "skills": []
+      },
+      {
+        "main": "Monk",
+        "ascendency": "Invoker",
+        "skills": []
+      },
+      {
+        "main": "Monk",
+        "ascendency": "Acolyte of Chayula",
+        "skills": []
+      },
+      {
+        "main": "Shadow",
+        "ascendency": "Shadow",
+        "skills": []
+      },
+      {
+        "main": "Sorcerer",
+        "ascendency": "Stormweaver",
+        "skills": []
+      },
+      {
+        "main": "Sorcerer",
+        "ascendency": "Chronomancer",
+        "skills": []
+      },
+      {
+        "main": "Witch",
+        "ascendency": "Infernalist",
+        "skills": []
+      },
+      {
+        "main": "Witch",
+        "ascendency": "Bloodmage",
+        "skills": []
+      },
+      {
+        "main": "Witch",
+        "ascendency": "Lich",
+        "skills": []
+      }
+    ],
+    "skills": []
   }
 }
