@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\William\\POE2BuildGenerator\\Poe2BuildGeneratorBE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB8E646B-50AF-488B-BAC4-1028987B68CE}|Poe2BuildGeneratorBE.csproj|c:\\users\\william\\poe2buildgenerator\\poe2buildgeneratorbe\\generator.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AB8E646B-50AF-488B-BAC4-1028987B68CE}|Poe2BuildGeneratorBE.csproj|solutionrelative:generator.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{AB8E646B-50AF-488B-BAC4-1028987B68CE}|Poe2BuildGeneratorBE.csproj|c:\\users\\william\\poe2buildgenerator\\poe2buildgeneratorbe\\api\\generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8E646B-50AF-488B-BAC4-1028987B68CE}|Poe2BuildGeneratorBE.csproj|solutionrelative:api\\generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8E646B-50AF-488B-BAC4-1028987B68CE}|Poe2BuildGeneratorBE.csproj|c:\\users\\william\\poe2buildgenerator\\poe2buildgeneratorbe\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8E646B-50AF-488B-BAC4-1028987B68CE}|Poe2BuildGeneratorBE.csproj|solutionrelative:app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8E646B-50AF-488B-BAC4-1028987B68CE}|Poe2BuildGeneratorBE.csproj|c:\\users\\william\\poe2buildgenerator\\poe2buildgeneratorbe\\json\\generator.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB8E646B-50AF-488B-BAC4-1028987B68CE}|Poe2BuildGeneratorBE.csproj|solutionrelative:json\\generator.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8E646B-50AF-488B-BAC4-1028987B68CE}|Poe2BuildGeneratorBE.csproj|c:\\users\\william\\poe2buildgenerator\\poe2buildgeneratorbe\\dto\\generatorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8E646B-50AF-488B-BAC4-1028987B68CE}|Poe2BuildGeneratorBE.csproj|solutionrelative:dto\\generatorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GeneratorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\William\\POE2BuildGenerator\\Poe2BuildGeneratorBE\\DTO\\GeneratorResponse.cs",
+              "RelativeDocumentMoniker": "DTO\\GeneratorResponse.cs",
+              "ToolTip": "C:\\Users\\William\\POE2BuildGenerator\\Poe2BuildGeneratorBE\\DTO\\GeneratorResponse.cs",
+              "RelativeToolTip": "DTO\\GeneratorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T00:06:52.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.cs",
+              "DocumentMoniker": "C:\\Users\\William\\POE2BuildGenerator\\Poe2BuildGeneratorBE\\App.cs",
+              "RelativeDocumentMoniker": "App.cs",
+              "ToolTip": "C:\\Users\\William\\POE2BuildGenerator\\Poe2BuildGeneratorBE\\App.cs",
+              "RelativeToolTip": "App.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T23:38:28.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Generator.cs",
+              "DocumentMoniker": "C:\\Users\\William\\POE2BuildGenerator\\Poe2BuildGeneratorBE\\Api\\Generator.cs",
+              "RelativeDocumentMoniker": "Api\\Generator.cs",
+              "ToolTip": "C:\\Users\\William\\POE2BuildGenerator\\Poe2BuildGeneratorBE\\Api\\Generator.cs",
+              "RelativeToolTip": "Api\\Generator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T23:40:38.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Generator.json",
-              "DocumentMoniker": "C:\\Users\\William\\POE2BuildGenerator\\Poe2BuildGeneratorBE\\Generator.json",
-              "RelativeDocumentMoniker": "Generator.json",
-              "ToolTip": "C:\\Users\\William\\POE2BuildGenerator\\Poe2BuildGeneratorBE\\Generator.json",
-              "RelativeToolTip": "Generator.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAALADAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\William\\POE2BuildGenerator\\Poe2BuildGeneratorBE\\json\\Generator.json",
+              "RelativeDocumentMoniker": "json\\Generator.json",
+              "ToolTip": "C:\\Users\\William\\POE2BuildGenerator\\Poe2BuildGeneratorBE\\json\\Generator.json",
+              "RelativeToolTip": "json\\Generator.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-07T19:56:51.69Z",
               "EditorCaption": ""
